@@ -1,5 +1,5 @@
 {
-    "name": "lorisleiva/lody",
+    "name": "abkrim/lody",
     "description": "Load files and classes as lazy collections in Laravel.",
     "keywords": [
         "laravel",
